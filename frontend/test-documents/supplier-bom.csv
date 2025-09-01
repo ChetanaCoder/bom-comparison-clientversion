@@ -1,0 +1,37 @@
+Part Number,Description,Category,Manufacturer,Quantity,Unit Price (USD),Total Price (USD),Specifications
+BOLT-M6-20-SS,M6x20mm Stainless Steel Hex Head Bolt,Fasteners,FastenerCorp,100,0.25,25.00,Grade A2 DIN 912 Temperature -40 to 200C
+BOLT-M8-25-CS,M8x25mm Cap Screw Bolt Grade 8.8,Fasteners,FastenerCorp,50,0.45,22.50,Grade 8.8 ISO 4762 Tensile 800MPa
+BOLT-M10-30-SH,M10x30mm Socket Head Bolt High Strength,Fasteners,FastenerCorp,75,0.65,48.75,Grade 10.9 DIN 912 Hardened
+BOLT-M12-40-FB,M12x40mm Flange Bolt Flywheel,Fasteners,FastenerCorp,25,1.20,30.00,Grade 8.8 DIN 6921 Zinc plated
+WASHER-M6-FLAT,M6 Flat Washer Stainless Steel 1.0mm,Fasteners,FastenerCorp,100,0.05,5.00,Grade A2 DIN 125 Thickness 1.0mm
+WASHER-M8-SPRING,M8 Spring Washer High Strength JIS,Fasteners,FastenerCorp,50,0.08,4.00,Grade 8 DIN 127 Spring action
+WASHER-M10-LOCK,M10 Lock Washer Zinc Plated,Fasteners,FastenerCorp,75,0.12,9.00,Grade 8 DIN 6796 Anti-vibration
+ORING-20-2.5-NBR,20x2.5mm NBR O-Ring Oil Pump Seal,Seals,SealTech Ltd,20,2.50,50.00,Shore A 70 Temperature -40 to 120C NBR compound
+ORING-35-3.0-FKM,35x3.0mm FKM O-Ring High Temperature,Seals,SealTech Ltd,15,4.80,72.00,Shore A 75 Temperature -20 to 200C Viton
+ORING-50-4.0-SIL,50x4.0mm Silicone O-Ring Coolant,Seals,SealTech Ltd,10,3.20,32.00,Shore A 60 Temperature -60 to 180C Food grade
+GASKET-HEAD-ML,Cylinder Head Gasket Multi Layer Steel,Gaskets,GasketPro,5,45.00,225.00,Thickness 1.2mm Multi-layer steel MLS
+GASKET-OILPAN-CORK,Oil Pan Gasket Cork Composite 3.0mm,Gaskets,GasketPro,5,12.50,62.50,Cork composite Thickness 3.0mm Oil resistant
+GASKET-INTAKE-RUB,Intake Manifold Gasket EPDM Rubber,Gaskets,GasketPro,8,8.75,70.00,EPDM rubber compound Temperature resistant
+ADHESIVE-EPOXY-2K,Epoxy Adhesive 2-Component Metal Bond,Adhesives,AdhesivePlus,2,25.60,51.20,Tensile strength 25MPa Working time 30min
+ADHESIVE-ACRYLIC,Acrylic Adhesive Plastic Parts 24h Cure,Adhesives,AdhesivePlus,3,18.90,56.70,Shear strength 15MPa Cure time 24h
+SEALANT-URETHANE,Urethane Sealant Waterproof Flexible,Adhesives,AdhesivePlus,4,22.40,89.60,Elongation 400% Shore A 25 Waterproof
+LG-SILICONE-200C,Silicone Liquid Gasket Heat Resistant,Sealants,SealantMax,6,15.80,94.80,Heat resistance 200C Cure time 1h
+LG-ANAEROBIC,Anaerobic Liquid Gasket Thread Lock,Sealants,SealantMax,4,19.20,76.80,Thread lock strength 12Nm Anaerobic cure
+CONN-4PIN-WP,4-Pin Waterproof Connector Sensor IP65,Electrical,ConnectorTech,10,8.90,89.00,IP65 rated Operating temp -40 to 85C
+CONN-8PIN-MULTI,8-Pin Multi Connector Control 16A 250V,Electrical,ConnectorTech,5,12.50,62.50,Current rating 16A Voltage 250V
+CONN-COAX,Coaxial Connector Communication 50 Ohm 3GHz,Electrical,ConnectorTech,8,15.60,124.80,Impedance 50 ohm Frequency 3GHz
+WIRE-0.75SQ-AUTO,0.75sq Automotive Wire General Purpose,Electrical,WirePro,50,0.85,42.50,Temperature range -40 to 105C Voltage 12V
+WIRE-1.25SQ-HT,1.25sq Heat Resistant Wire High Temp,Electrical,WirePro,30,1.25,37.50,Temperature range -40 to 125C Voltage 24V
+CABLE-SHIELD,Shielded Cable Noise Reduction EMI,Electrical,WirePro,20,3.80,76.00,Capacitance <150pF/m Shielding 90%
+SPRING-COMP-8X20,Compression Spring 8x20mm Valve Application,Hardware,SpringWorks,25,2.40,60.00,Wire diameter 1.4mm Free length 20mm
+SPRING-TENS-6X15,Tension Spring 6x15mm Throttle Control,Hardware,SpringWorks,15,1.80,27.00,Wire diameter 1.0mm Free length 15mm
+SPRING-TORSION,Torsion Spring Clutch Mechanism,Hardware,SpringWorks,10,5.60,56.00,Material spring steel Torque rating
+PIN-DOWEL-6X30,6x30mm Dowel Pin Positioning Hardened,Hardware,PinCorp,20,0.95,19.00,Tolerance h8 Surface hardness 58-62 HRC
+KEY-SQUARE-5X25,5x5x25mm Square Key Power Transmission,Hardware,PinCorp,12,2.80,33.60,Tolerance h9 Material S45C
+PIN-SPRING-3X12,3x12mm Spring Pin Fixing SUS304,Hardware,PinCorp,30,0.45,13.50,Tolerance m6 Material SUS304 Stainless
+OIL-ENGINE-5W30,Engine Oil SAE 5W-30 Synthetic API SN,Consumables,FluidTech,5,35.80,179.00,Viscosity 5W-30 API SN classification Synthetic
+OIL-GEAR-80W90,Gear Oil SAE 80W-90 API GL-4,Consumables,FluidTech,2,28.90,57.80,Viscosity 80W-90 API GL-4 Mineral based
+GREASE-LITHIUM,Lithium Grease Heat Resistant NLGI 2,Consumables,FluidTech,3,18.60,55.80,NLGI Grade 2 Drop point 190C Lithium soap
+COOLANT-LLC-EG,Long Life Coolant Ethylene Glycol Based,Consumables,CoolantCorp,4,42.50,170.00,Specific gravity 1.12 pH 7.5-9.5 Ethylene glycol
+ANTIFREEZE-40C,Antifreeze -40C Protection Concentrate,Consumables,CoolantCorp,6,38.90,233.40,Freezing point -40C Boiling point 107C
+ADDITIVE-ANTICORR,Anti-Corrosion Additive Coolant System,Consumables,CoolantCorp,8,12.30,98.40,Corrosion inhibitor Concentration 5%
